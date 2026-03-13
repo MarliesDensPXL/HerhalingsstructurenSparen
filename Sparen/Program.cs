@@ -53,6 +53,31 @@
             Console.ResetColor();
 
 
+            //int week = 1;
+            //decimal newIncrease = increase;
+
+
+
+            //do
+            //{
+            //    Console.ForegroundColor = ConsoleColor.DarkCyan;
+            //    Console.Write($"Week {week}: {pocketMoney * week} + {newIncrease} = {pocketMoney * week + newIncrease}");
+            //    Console.WriteLine();
+
+
+            //    week += 1;
+            //    newIncrease += increase;
+
+
+            //} while ((pocketMoney * week + newIncrease) <= purpose);
+
+            //Console.Write($"Week {week}: {pocketMoney * week} + {newIncrease} = {pocketMoney * week + newIncrease}");
+
+            //Console.WriteLine();
+            //Console.WriteLine();
+            //Console.ForegroundColor = ConsoleColor.Green;
+            //Console.WriteLine($"Je hebt {week} weken nodig om je doel van {purpose} euro bij elkaar te sparen.");
+            //Console.ResetColor();
         }
     }
 }
